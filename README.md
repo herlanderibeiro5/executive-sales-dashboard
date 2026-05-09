@@ -1,4 +1,4 @@
-# Dashboard Executivo - Performance de Vendas E-commerce desenvolvido em Power BI.
+# Dashboard Executivo - Performance de Vendas E-commerce- Desenvolvido em Power BI.
 
 Projeto desenvolvido com SQL Server e Power BI para análise de performance de vendas de e-commerce.
 
