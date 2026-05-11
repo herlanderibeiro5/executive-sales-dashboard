@@ -7,7 +7,7 @@ This project presents an executive sales dashboard developed using SQL Server an
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](images/dashboard_overwiew.png)
 
 ## The dashboard provides:
 • Revenue KPIs
