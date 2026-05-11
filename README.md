@@ -10,7 +10,7 @@ Dashboard executivo desenvolvido com SQL Server e Power BI.
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard_clean.png)
 
 ## Principais Análises
 - Receita total
