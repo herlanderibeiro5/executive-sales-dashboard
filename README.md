@@ -1,14 +1,23 @@
-# Dashboard Executivo - Performance de Vendas E-commerce- Desenvolvido em Power BI.
+# E-commerce Analytics Dashboard
 
-Projeto desenvolvido com SQL Server e Power BI para análise de performance de vendas de e-commerce.
+Dashboard executivo desenvolvido com SQL Server e Power BI.
 
-## Tecnologias Utilizadas
+## Tecnologias
+- SQL Server
+- Power BI
+- DAX
+- Star Schema
 
-* SQL Server
-* Power BI
-* DAX
-* Power Query
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
+## Principais Análises
+- Receita total
+- Receita por produto
+- Receita por mês
+- Top clientes
+- Ticket médio por venda
 
 ## Objetivo
-
-Analisar indicadores estratégicos de vendas e gerar insights executivos através de dashboards interativos.
+Demonstrar competências em análise de dados, modelagem dimensional e visualização analítica.
