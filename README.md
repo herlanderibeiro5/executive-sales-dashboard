@@ -1,23 +1,23 @@
-# E-commerce Analytics Dashboard
+# E-commerce Executive Sales Dashboard
 
-Dashboard executivo desenvolvido com SQL Server e Power BI.
+Business Intelligence and Sales Analytics Project using SQL Server and Power BI
 
-## Tecnologias
-- SQL Server
-- Power BI
-- DAX
-- Star Schema
+## Summarry
+This project presents an executive sales dashboard developed using SQL Server and Power BI, focused on business intelligence and revenue analysis for an e-commerce environment.
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_clean.png)
+![Dashboard](images/dashboard_overview.png)
 
-## Principais Análises
-- Receita total
-- Receita por produto
-- Receita por mês
-- Top clientes
-- Ticket médio por venda
+## The dashboard provides:
+• Revenue KPIs
+• Product performance analysis
+• Monthly revenue evolution
+• Customer analysis
+• Ticket average metrics
+• Interactive filtering and storytelling insights
 
-## Objetivo
-Demonstrar competências em análise de dados, modelagem dimensional e visualização analítica.
+The project was built using a Star Schema data model and DAX measures to support analytical reporting and decision-making.
+
+## Technologies:
+SQL Server | Power BI | DAX | Data Analytics | Business Intelligence
