@@ -1,4 +1,4 @@
-# E-commerce Executive Sales Dashboard
+# Sales Performance Analytics | SQL Server + Power BI + DAX
 
 Business Intelligence and Sales Analytics Project using SQL Server and Power BI
 
